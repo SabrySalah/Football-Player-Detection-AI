@@ -20,12 +20,6 @@
   <img src="demo/preview.gif" width="900">
 </p>
 </div>
-# 🎥 Demo Preview
-
-<p align="center">
-  <img src="demo/preview.gif" width="800">
-</p>
----
 
 # 📌 Overview
 
@@ -88,13 +82,7 @@ football-player-detection-ai/
 
 ---
 
-# 🎥 Demo
 
-## Match Detection Demo
-
-> Place your demo video inside:
-```bash
-demo/demo.mp4
 ```
 
 You can also add a GIF preview here later.
@@ -219,7 +207,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 # 📽️ Project Presentation
 
 - [Presentation PDF](presentation/Football_Player_Detection_Presentation.pdf)
-- [Presentation Slides](presentation/Football_Player_Detection_Presentation.pptx)
 <div align="center">
 
 ### 🚀 Built with AI, Computer Vision, and Passion for Football Analytics
