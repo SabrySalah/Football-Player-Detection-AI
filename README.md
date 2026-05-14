@@ -14,7 +14,11 @@
 ---
 
 🎯 AI-powered football player detection system trained using YOLO for real-time sports analytics and visual recognition.
+# 🎥 Demo Preview
 
+<p align="center">
+  <img src="demo/preview.gif" width="900">
+</p>
 </div>
 
 ---
@@ -208,7 +212,10 @@ AI Student & Computer Vision Enthusiast
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
+# 📽️ Project Presentation
 
+- [Presentation PDF](presentation/Football_Player_Detection_Presentation.pdf)
+- [Presentation Slides](presentation/Football_Player_Detection_Presentation.pptx)
 <div align="center">
 
 ### 🚀 Built with AI, Computer Vision, and Passion for Football Analytics
