@@ -20,7 +20,11 @@
   <img src="demo/preview.gif" width="900">
 </p>
 </div>
+# 🎥 Demo Preview
 
+<p align="center">
+  <img src="demo/preview.gif" width="800">
+</p>
 ---
 
 # 📌 Overview
