@@ -203,8 +203,7 @@ AI Student & Computer Vision Enthusiast
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
----
-# 📽️ Project Presentation
+---# 📽️ Project Presentation
 
 - [Presentation PDF](presentation/Football_Player_Detection_Presentation.pdf)
 <div align="center">
