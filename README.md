@@ -86,7 +86,7 @@ football-player-detection-ai/
 
 
 
-You can also add a GIF preview here later.
+
 
 ---
 
@@ -99,12 +99,12 @@ You can also add a GIF preview here later.
 | F1-Score | 0.88 |
 ## Evaluation Metrics
 
+| Metric | Result |
 |---|---|
 | Detection Model | YOLO |
 | Training Framework | PyTorch |
 | Task | Football Player Detection |
 | Inference Type | Real-Time Video Detection |
-
 ---
 
 # 📊 Training Results
