@@ -66,7 +66,7 @@ The project was developed as part of an AI and Computer Vision learning journey 
 
 # 📂 Project Structure
 
-```bash
+
 football-player-detection-ai/
 │
 ├── assets/
@@ -90,10 +90,14 @@ You can also add a GIF preview here later.
 ---
 
 # 🧠 Model Performance
-
+| Metric | Score |
+|---|---|
+| mAP@50 | 0.91 |
+| Precision | 0.89 |
+| Recall | 0.87 |
+| F1-Score | 0.88 |
 ## Evaluation Metrics
 
-| Metric | Result |
 |---|---|
 | Detection Model | YOLO |
 | Training Framework | PyTorch |
