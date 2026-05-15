@@ -83,7 +83,7 @@ football-player-detection-ai/
 ---
 
 
-```
+
 
 You can also add a GIF preview here later.
 
