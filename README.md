@@ -65,6 +65,7 @@ The project was developed as part of an AI and Computer Vision learning journey 
 ---
 
 # 📂 Project Structure
+```bash
 
 
 football-player-detection-ai/
